@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Bioinformatician wearing a software engineers hats.
+Bioinformatician wearing a software engineering hat.
 
 Epigenetics / R / Python / Big Data
 
