@@ -44,7 +44,7 @@ Epigenetics / R / Python / Big Data
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xchem&repo=fragalysis-api&theme=tokyonight" />
 </a>
 <a href="https://github.com/tjgorrie/XChemReview">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tjgorrie&repo=XChemReview&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xchem&repo=XChemReview&theme=tokyonight" />
 </a>
 <a href="https://github.com/tjgorrie/localXCR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tjgorrie&repo=localXCR&theme=tokyonight" />
